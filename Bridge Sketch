@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+\title{Pasta Bridge Sketches}
+\author{Se\'an Hogan - 21430452 - Group 34}
+\maketitle
+
+\begin{figure}
+	\centering
+	\includegraphics[height=3.0in]{/home/sean/Pictures/b1.jpg}
+	\caption{Sketch of First Bridge Candidate}	
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[height=3.0in]{/home/sean/Pictures/b2.jpg}
+	\caption{Sketch of Second Bridge Candidate including the Base of both.}	
+\end{figure}
+
+\end{document}
+

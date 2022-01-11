@@ -1,0 +1,36 @@
+\documentclass{article}
+\begin{document}
+\title{Requirements for Bridge Compiled}
+\author{Se\'an Hogan - 21430452}
+\maketitle
+
+\section{Requirements for Bridge}
+
+\begin{itemize}
+\item Max. Bridge Length: 60cm
+\item Max. Bridge Height: 25cm
+\item Max. Bidge Width: 10cm
+\item Span of Bridge must be over 50cm
+\item Bridge must allow passage of object 10L x 6H x 5W
+
+\end{itemize} 
+
+\section{Information on Load}
+
+\begin{itemize}
+\item Mass of Load: 20kg
+\item Load is suspended from Centre point
+\end{itemize}
+
+\section{Information on Materials}
+
+\begin{itemize}
+\item Weight of Hot Glue: Weighs approx. $0.5g/cm^3$
+\item Weight of Spaghetti: Weighs appox. 1g/piece*
+\item Lenght of Spaghetti: Approx. 25cm
+\item UTS of Spaghetti:
+\end{itemize}
+
+*VERY APPROXIMATE, suprisingly difficult to find information on.
+
+\end{document}

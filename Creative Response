@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+\title{Creative Response Essay}
+\author{Se\'an Hogan - 21430452}
+\date{January 6, 2022}
+\maketitle
+
+The images I have chosen are 1, 5 and 9. They share a common theme of using the natural resources around us instead of building upon a world which is already full of concrete. Sometimes less is more. When looking at a problem our natural biases favour a solution in which we ask ourselves ''What can we add to fix this?`` when we really would be better off using a subtractive solution. We don't need to build a track for people to run on, nature has provided us with ample facilities. Similarly we don't need a pool for a kayak when we have a river. While picture nine shares the quality of using natural resources, it's used in a negative way as it pollutes, showing discretion is often necessary, we can't always follow stringent rules when designing infrastructure, we have to be creative.
+\begin{figure}
+	\centering
+	\includegraphics[height=4.0in]{/home/sean/Documents/Latex/PXL_20220108_200051942.jpg}
+	\caption{Visual element of assignment}	
+\end{figure}
+
+\end{document}
+
